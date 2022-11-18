@@ -1,0 +1,216 @@
+.nav
+{
+    background-color: #000324;
+    top: 0px;
+left: 0px;
+width: 1520px;
+
+    background: #000324 0% 0% no-repeat padding-box;
+opacity: 1;
+width: 100%;
+
+
+}
+small
+{
+    color: white;
+    font: normal normal normal 40px/35px Dosis;
+letter-spacing: 0px;
+
+opacity: 1;
+}
+
+.container-one
+{
+  background-image: url(../assets/header.jpg) ;
+  top: 119px;
+left: 0px;
+width: 1520px;
+height: 500px;
+opacity: 1;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 67vh;
+  background-position:bottom;
+  background-position-y: center ;
+  width: 100%;
+}
+.container-two
+{
+    height: 30vh;
+width: 100vh;
+background: #000324 0% 0% no-repeat padding-box;
+opacity: 0.8;
+text-align: center;
+
+color: white;
+width: 100%;
+
+}
+.container-artboard-one-fluid
+{
+    top: 0px;
+left: 0px;
+width: 1520px;
+height: 500px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+opacity: 1;
+
+margin-top: 5%;
+width: 100%;
+
+
+
+}
+.container-rooms
+{
+    background-image: url(../assets/bg2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+
+
+}
+.container-packages
+{
+    top: 0px;
+    left: 0px;
+    width: 1520px;
+    height: 500px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    width: 100%;
+    position: relative;
+}
+.card
+{
+    margin-left: 10%;
+    margin-top: 5%;
+    
+    
+    
+    
+}
+.poop
+{
+    -webkit-text-fill-color: #FFFFFF;
+}
+li
+{
+    -webkit-text-fill-color: black;
+}
+.container-amenities
+{background-image: url(../assets/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 100%;
+    
+    
+}
+.textPhotos
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hamsterPics
+{
+    width: 561px;
+height: 234px;
+width: 100%;
+
+}
+
+.hamsterPicsRow{
+    width: 1122px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.col-6{
+    width: 561px;
+    display: flex;
+    justify-content: center;
+}
+.dollars
+{
+    -webkit-text-fill-color: blue;
+}
+.package-text-one
+{
+    text-align:start;
+}
+.weddingText
+{
+    -webkit-text-fill-color: black;
+}
+.amenitiesPics
+{
+    
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding-left: 30%;
+    
+   
+}
+.container-reserve
+{
+   
+    height: 168px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 1;
+    -webkit-text-fill-color: #FFFFFF;
+    
+    width: 100%;
+  
+    
+    
+}
+.backBlue
+{
+    background-color: #000324;
+    
+}
+.textColor
+{
+    color: transparent;
+}
+.poopscoop
+{
+    -webkit-text-fill-color: #000324;
+}
+.hamster
+{
+  padding-top: 2%;
+
+height: 500px;
+opacity: 1;
+-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  
+  
+}
+.container-footer
+{
+    
+    background: #000324 0% 0% no-repeat padding-box;
+    width: 1520px;
+    height:200px;
+    opacity: 1;
+    
+    width: 100%;
+}
